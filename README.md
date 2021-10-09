@@ -11,7 +11,7 @@ TWW Midi Library is a media midi library specifically for the wild west. We open
 
 ## Contributor
 
-**Notes:** Midi file title name cannot have space. Before upload to tww midi library make sure to rename your midi file to proper format. Space can be replace by *underscore* or *dash*.
+**Notes:** Midi file title name cannot have space,coma and box bracket. Before upload to tww midi library make sure to rename your midi file to proper format. Space can be replace by *underscore* or *dash*.
 
 **How to contribute**
 1. Click on *Add file* button and then click *Upload files*.
